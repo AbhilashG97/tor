@@ -4,3 +4,8 @@ Well, here is an example -
 
 Garbage
 Garbage
+
+These are a few very important line about Java.
+Java is a very verstile language.
+It can do many things such as. 
+
